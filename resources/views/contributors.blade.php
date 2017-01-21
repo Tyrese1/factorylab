@@ -667,7 +667,7 @@
                             <td>72</td>
                             <td>Obatarhe Otughwor</td>
                             <td>Windows 7</td>
-                            <td>PHP, Python, Bootstrap, HTML, CSS, Android, Bash scripting</td>
+                            <td>PHP, Python, Bootstrap, HTML, CSS, Android, Bash scripting, Django</td>
                             <td>@otarhe</td>
                         </tr>
                         <tr>
