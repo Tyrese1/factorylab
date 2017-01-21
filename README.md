@@ -1,11 +1,4 @@
-# Welcome To Factory
 
-## First things
-
-- Clone the repository
-- Add your name to the contributors list (using GIT). *The name should match your slack name*
-- Push the code using `git push origin dev`
-- Pull all changes using `git pull`
 
 ## Setting up the framework
 

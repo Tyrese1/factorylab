@@ -24,7 +24,7 @@ html, body
 
 .title{
   font-size: 2.5rem;
-  
+
 }
 
 table {
@@ -47,4 +47,87 @@ table th {
 table td {
     text-align: left;
     font-weight: 300;
+}
+
+.footer ul >li>a{
+  color:#ffffff;
+}
+
+.footer ul >li{
+  list-style: none
+}
+
+
+
+
+.jumbotron{background:white;}
+
+/*color codes go here.....pls take note of the convention*/
+.blue-darken{
+  background:#2D2FEA
+}
+
+.blue-lighten{
+  background: #2DA9EA
+}
+
+.blue{
+  background:#339CFF
+}
+
+.blue-text{
+  color:#339CFF
+}
+
+.green-darken{
+  background: #04C00E;
+}
+
+.green-lighten{
+  background: #3FED0B;
+}
+
+.green{
+  background: #05E624
+}
+
+.green-text{
+  color: #05E624;
+}
+
+.yellow-darken{
+
+}
+
+.yellow-lighten{
+  background: #F6F706;
+}
+
+.yellow{
+  background: #F7E506;
+}
+
+.yellow-text{
+  color: #F7E506;
+}
+
+.white-text{
+  color: #ffffff;
+}
+
+.heading1{
+  font-size: 40px;
+}
+
+.heading2{
+  font-size: 60px;
+}
+
+.dark{
+  /*dark is still dark anywhere*/
+  background: #202020;
+}
+
+.dark-text{
+  color: #202020
 }
