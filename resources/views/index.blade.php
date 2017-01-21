@@ -95,7 +95,7 @@
             <div class="input-group">
               <input type="text" class="form-control input-lg" placeholder="Enter email address">
               <span class="input-group-btn">
-                <button class="btn btn-lg btn-success" type="button">Notify Me</button>
+                <button class="btn btn-sm btn-success" type="button">Notify Me</button>
               </span>
             </div>
           </div>
