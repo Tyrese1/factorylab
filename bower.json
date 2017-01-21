@@ -1,0 +1,22 @@
+{
+  "name": "factory",
+  "authors": [
+    "Tobalase Akinyemi <tobalase.akinyemi@noth.i.ng>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3",
+    "jquery": "1"
+  }
+}

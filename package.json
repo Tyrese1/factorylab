@@ -1,0 +1,24 @@
+{
+  "name": "factory",
+  "version": "0.1.0",
+  "description": "The HR project",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/hng-interns/factory.git"
+  },
+  "author": "Chibuike Emmanuel Osita - @mozartted",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hng-interns/factory/issues"
+  },
+  "homepage": "https://gitlab.com/hng-interns/factory#README"
+}
