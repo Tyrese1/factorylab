@@ -667,7 +667,7 @@
                             <td>72</td>
                             <td>Obatarhe Otughwor</td>
                             <td>Windows 7</td>
-                            <td>PHP, Python, Bootstrap, HTML, CSS, Android, Bash scripting, Django</td>
+                            <td>PHP, Python, Bootstrap, HTML, CSS, Android, Bash scripting</td>
                             <td>@otarhe</td>
                         </tr>
                         <tr>
@@ -1159,7 +1159,7 @@
                             <td>Windows 8</td>
                             <td>Android Application Development, JAVA</td>
                             <td>@kelechiogueji</td>
-                          </tr>
+                        </tr>
                         <tr>
                             <td>143</td>
                             <td>Prosper Oyibo</td>
@@ -1173,6 +1173,83 @@
                             <td>Mac Os</td>
                             <td>Kotlin,Android Dev, JAVA</td>
                             <td>@dewunmisimon</td>
+                        </tr>
+                        <tr>
+                            <td>145</td>
+                            <td>Okpala Chuks</td>
+                            <td>Ubuntu 16.04</td>
+                            <td>HTML,CSS3, PHP, BOOTSTRAP,Javascript</td>
+                            <td>@chuks</td>
+                        </tr>
+                        <tr>
+                            <td>146</td>
+                            <td>Elili Samuel</td>
+                            <td>Windows 10</td>
+                            <td>HTML, CSS</td>
+                            <td>@samuel_elili</td>
+                        </tr>
+                        <tr>
+                            <td>147</td>
+                            <td>Daniel Obasi</td>
+                            <td>Mac OS</td>
+                            <td>Mobile &amp; Web Developer</td>
+                            <td>@danielobasi</td>
+                        </tr>
+                        <tr>
+                            <td>148</td>
+                            <td>Ekom Otu</td>
+                            <td>Windows 10</td>
+                            <td>PHP,MySQL</td>
+                            <td>@komex</td>
+                        </tr>
+                        <tr>
+                            <td>149</td>
+                            <td>Segun Olumide</td>
+                            <td>Ubuntu OS</td>
+                            <td>HTML,CSS3,BOOTSTRAP,Javascript</td>
+                            <td>@wonexo</td>
+                        </tr>
+						<tr>
+                            <td>150</td>
+                            <td>Ochimana Mustapha</td>
+                            <td>Windows 10</td>
+                            <td>HTML(beginner)PHP(Beginner),C,C#,MySQL</td>
+                            <td>@octavio</td>
+                        </tr>
+                        <tr>
+                            <td>151</td>
+                            <td>Calfos Adijat Oluwatosin</td>
+                            <td>Windows 8</td>
+                            <td>Html, css, Javascript, Jquery, Bootstrap,newbie in Python </td>
+                            <td>@calfos</td>
+                        </tr>
+			            <tr>
+                            <td>152</td>
+                            <td>Tosin Emmanuel </td>
+                            <td>Windows</td>
+                            <td>HTML, CSS, PHP </td>
+                            <td>@emmazone</td>
+                        </tr>
+                        <tr>
+                            <td>153</td>
+                            <td>Majiyagbe Oluwole</td>
+                            <td>Kali Linux 2.0 Sana</td>
+                            <td>Android Development using JAVA, C#, Html, css, Javascript, Jquery, Bootstrap,Python Flask(Newbie), PHP(Newbie) </td>
+                            <td>@oluwole564</td>
+                        </tr>
+                        <tr>
+                            <td>154</td>
+                            <td>Adeola Adeyemo</td>
+                            <td>Windows 8.1</td>
+                            <td>HTML, CSS, Bootstrap, Jquery, Javascript, python newbie, PHP newbie</td>
+                            <td>@dejoe</td>
+                        </tr>
+                        <tr>
+                            <td>155</td>
+                            <td>Chris Ilozulu</td>
+                            <td>lubuntu 16.10</td>
+                            <td>HTML,CSS3,PHP,PYTHON,SCALA</td>
+                            <td>@ilozuluchris</td>
                         </tr>
                         </tbody>
                     </table>
